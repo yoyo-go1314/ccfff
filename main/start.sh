@@ -1,7 +1,7 @@
 export PORT=${PORT-8080}
-export PATH_vless=${PATH_vless-/70b4edb3-7ac2-48a4-a814-8ce8ad921d6d-vless}
-export PATH_trojan=${PATH_trojan-/70b4edb3-7ac2-48a4-a814-8ce8ad921d6d-trojan}
-export PATH_vmess=${PATH_vmess-/70b4edb3-7ac2-48a4-a814-8ce8ad921d6d-vmess}
+export PATH_vless=${PATH_vless-/348ef892-a6d7-4ec6-ab9e-4e9e8d625a5a-vless}
+export PATH_trojan=${PATH_trojan-/348ef892-a6d7-4ec6-ab9e-4e9e8d625a5a-trojan}
+export PATH_vmess=${PATH_vmess-/348ef892-a6d7-4ec6-ab9e-4e9e8d625a5a-vmess}
 
 
 tar -xzvf page.tar.gz
